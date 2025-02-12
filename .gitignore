@@ -1,0 +1,64 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / Resharper files
+.idea/
+*.sln.iml
+*.DotSettings.user
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Visual Studio Code settings (optional, if you don't want to share workspace settings)
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if you don't want to check in your package references (for older .NET projects):
+# packages.config
+
+# Auto-generated files
+*.generated.*
+*.designer.cs
+
+# Logs
+*.log
+*.tlog
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Build output extensions
+*.exe
+*.dll
+*.so
+*.dylib
+*.lock.json
+*.pdb
+
+# Coverage and test results
+TestResults/
+coverage/
+.coverage
+*.coveragexml
+*.trx
+
+# OS-specific files
+# macOS:
+.DS_Store
+
+# Windows:
+Thumbs.db
+ehthumbs.db
